@@ -16,5 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Splash Screen
+[Native Splash Screen documentation](https://pub.dev/packages/flutter_native_splash)
 You can modify the Splash Screen on pubspec.yaml 
 and then type 'dart run flutter_native_splash:create' on terminal
